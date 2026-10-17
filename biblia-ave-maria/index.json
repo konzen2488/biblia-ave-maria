@@ -1,0 +1,447 @@
+{
+  "versao": "Bíblia Ave Maria",
+  "arquivos": {
+    "antigoTestamento": [
+      {
+        "nome": "Gênesis",
+        "arquivo": "livros/genesis.json",
+        "ordem": 1,
+        "capitulos": 50
+      },
+      {
+        "nome": "Êxodo",
+        "arquivo": "livros/exodo.json",
+        "ordem": 2,
+        "capitulos": 40
+      },
+      {
+        "nome": "Levítico",
+        "arquivo": "livros/levitico.json",
+        "ordem": 3,
+        "capitulos": 27
+      },
+      {
+        "nome": "Números",
+        "arquivo": "livros/numeros.json",
+        "ordem": 4,
+        "capitulos": 36
+      },
+      {
+        "nome": "Deuteronômio",
+        "arquivo": "livros/deuteronomio.json",
+        "ordem": 5,
+        "capitulos": 34
+      },
+      {
+        "nome": "Josué",
+        "arquivo": "livros/josue.json",
+        "ordem": 6,
+        "capitulos": 24
+      },
+      {
+        "nome": "Juízes",
+        "arquivo": "livros/juizes.json",
+        "ordem": 7,
+        "capitulos": 21
+      },
+      {
+        "nome": "Rute",
+        "arquivo": "livros/rute.json",
+        "ordem": 8,
+        "capitulos": 4
+      },
+      {
+        "nome": "I Samuel",
+        "arquivo": "livros/i-samuel.json",
+        "ordem": 9,
+        "capitulos": 31
+      },
+      {
+        "nome": "II Samuel",
+        "arquivo": "livros/ii-samuel.json",
+        "ordem": 10,
+        "capitulos": 24
+      },
+      {
+        "nome": "I Reis",
+        "arquivo": "livros/i-reis.json",
+        "ordem": 11,
+        "capitulos": 22
+      },
+      {
+        "nome": "II Reis",
+        "arquivo": "livros/ii-reis.json",
+        "ordem": 12,
+        "capitulos": 25
+      },
+      {
+        "nome": "I Crônicas",
+        "arquivo": "livros/i-cronicas.json",
+        "ordem": 13,
+        "capitulos": 29
+      },
+      {
+        "nome": "II Crônicas",
+        "arquivo": "livros/ii-cronicas.json",
+        "ordem": 14,
+        "capitulos": 36
+      },
+      {
+        "nome": "Esdras",
+        "arquivo": "livros/esdras.json",
+        "ordem": 15,
+        "capitulos": 10
+      },
+      {
+        "nome": "Neemias",
+        "arquivo": "livros/neemias.json",
+        "ordem": 16,
+        "capitulos": 13
+      },
+      {
+        "nome": "Tobias",
+        "arquivo": "livros/tobias.json",
+        "ordem": 17,
+        "capitulos": 14
+      },
+      {
+        "nome": "Judite",
+        "arquivo": "livros/judite.json",
+        "ordem": 18,
+        "capitulos": 16
+      },
+      {
+        "nome": "Ester",
+        "arquivo": "livros/ester.json",
+        "ordem": 19,
+        "capitulos": 16
+      },
+      {
+        "nome": "Jó",
+        "arquivo": "livros/jo.json",
+        "ordem": 20,
+        "capitulos": 42
+      },
+      {
+        "nome": "Salmos",
+        "arquivo": "livros/salmos.json",
+        "ordem": 21,
+        "capitulos": 150
+      },
+      {
+        "nome": "I Macabeus",
+        "arquivo": "livros/i-macabeus.json",
+        "ordem": 22,
+        "capitulos": 16
+      },
+      {
+        "nome": "II Macabeus",
+        "arquivo": "livros/ii-macabeus.json",
+        "ordem": 23,
+        "capitulos": 15
+      },
+      {
+        "nome": "Provérbios",
+        "arquivo": "livros/proverbios.json",
+        "ordem": 24,
+        "capitulos": 31
+      },
+      {
+        "nome": "Eclesiastes",
+        "arquivo": "livros/eclesiastes.json",
+        "ordem": 25,
+        "capitulos": 12
+      },
+      {
+        "nome": "Cântico dos Cânticos",
+        "arquivo": "livros/cantico-dos-canticos.json",
+        "ordem": 26,
+        "capitulos": 8
+      },
+      {
+        "nome": "Sabedoria",
+        "arquivo": "livros/sabedoria.json",
+        "ordem": 27,
+        "capitulos": 19
+      },
+      {
+        "nome": "Eclesiástico",
+        "arquivo": "livros/eclesiastico.json",
+        "ordem": 28,
+        "capitulos": 51
+      },
+      {
+        "nome": "Isaías",
+        "arquivo": "livros/isaias.json",
+        "ordem": 29,
+        "capitulos": 66
+      },
+      {
+        "nome": "Jeremias",
+        "arquivo": "livros/jeremias.json",
+        "ordem": 30,
+        "capitulos": 52
+      },
+      {
+        "nome": "Lamentações",
+        "arquivo": "livros/lamentacoes.json",
+        "ordem": 31,
+        "capitulos": 5
+      },
+      {
+        "nome": "Baruc",
+        "arquivo": "livros/baruc.json",
+        "ordem": 32,
+        "capitulos": 6
+      },
+      {
+        "nome": "Ezequiel",
+        "arquivo": "livros/ezequiel.json",
+        "ordem": 33,
+        "capitulos": 48
+      },
+      {
+        "nome": "Daniel",
+        "arquivo": "livros/daniel.json",
+        "ordem": 34,
+        "capitulos": 14
+      },
+      {
+        "nome": "Oséias",
+        "arquivo": "livros/oseias.json",
+        "ordem": 35,
+        "capitulos": 14
+      },
+      {
+        "nome": "Joel",
+        "arquivo": "livros/joel.json",
+        "ordem": 36,
+        "capitulos": 4
+      },
+      {
+        "nome": "Amós",
+        "arquivo": "livros/amos.json",
+        "ordem": 37,
+        "capitulos": 9
+      },
+      {
+        "nome": "Abdias",
+        "arquivo": "livros/abdias.json",
+        "ordem": 38,
+        "capitulos": 1
+      },
+      {
+        "nome": "Jonas",
+        "arquivo": "livros/jonas.json",
+        "ordem": 39,
+        "capitulos": 4
+      },
+      {
+        "nome": "Miquéias",
+        "arquivo": "livros/miqueias.json",
+        "ordem": 40,
+        "capitulos": 7
+      },
+      {
+        "nome": "Naum",
+        "arquivo": "livros/naum.json",
+        "ordem": 41,
+        "capitulos": 3
+      },
+      {
+        "nome": "Habacuc",
+        "arquivo": "livros/habacuc.json",
+        "ordem": 42,
+        "capitulos": 3
+      },
+      {
+        "nome": "Sofonias",
+        "arquivo": "livros/sofonias.json",
+        "ordem": 43,
+        "capitulos": 3
+      },
+      {
+        "nome": "Ageu",
+        "arquivo": "livros/ageu.json",
+        "ordem": 44,
+        "capitulos": 2
+      },
+      {
+        "nome": "Zacarias",
+        "arquivo": "livros/zacarias.json",
+        "ordem": 45,
+        "capitulos": 14
+      },
+      {
+        "nome": "Malaquias",
+        "arquivo": "livros/malaquias.json",
+        "ordem": 46,
+        "capitulos": 3
+      }
+    ],
+    "novoTestamento": [
+      {
+        "nome": "São Mateus",
+        "arquivo": "livros/sao-mateus.json",
+        "ordem": 1,
+        "capitulos": 28
+      },
+      {
+        "nome": "São Marcos",
+        "arquivo": "livros/sao-marcos.json",
+        "ordem": 2,
+        "capitulos": 16
+      },
+      {
+        "nome": "São Lucas",
+        "arquivo": "livros/sao-lucas.json",
+        "ordem": 3,
+        "capitulos": 24
+      },
+      {
+        "nome": "São João",
+        "arquivo": "livros/sao-joao.json",
+        "ordem": 4,
+        "capitulos": 21
+      },
+      {
+        "nome": "Atos dos Apóstolos",
+        "arquivo": "livros/atos-dos-apostolos.json",
+        "ordem": 5,
+        "capitulos": 28
+      },
+      {
+        "nome": "Romanos",
+        "arquivo": "livros/romanos.json",
+        "ordem": 6,
+        "capitulos": 16
+      },
+      {
+        "nome": "I Coríntios",
+        "arquivo": "livros/i-corintios.json",
+        "ordem": 7,
+        "capitulos": 16
+      },
+      {
+        "nome": "II Coríntios",
+        "arquivo": "livros/ii-corintios.json",
+        "ordem": 8,
+        "capitulos": 13
+      },
+      {
+        "nome": "Gálatas",
+        "arquivo": "livros/galatas.json",
+        "ordem": 9,
+        "capitulos": 6
+      },
+      {
+        "nome": "Efésios",
+        "arquivo": "livros/efesios.json",
+        "ordem": 10,
+        "capitulos": 6
+      },
+      {
+        "nome": "Filipenses",
+        "arquivo": "livros/filipenses.json",
+        "ordem": 11,
+        "capitulos": 4
+      },
+      {
+        "nome": "Colossenses",
+        "arquivo": "livros/colossenses.json",
+        "ordem": 12,
+        "capitulos": 4
+      },
+      {
+        "nome": "I Tessalonicenses",
+        "arquivo": "livros/i-tessalonicenses.json",
+        "ordem": 13,
+        "capitulos": 5
+      },
+      {
+        "nome": "II Tessalonicenses",
+        "arquivo": "livros/ii-tessalonicenses.json",
+        "ordem": 14,
+        "capitulos": 3
+      },
+      {
+        "nome": "I Timóteo",
+        "arquivo": "livros/i-timoteo.json",
+        "ordem": 15,
+        "capitulos": 6
+      },
+      {
+        "nome": "II Timóteo",
+        "arquivo": "livros/ii-timoteo.json",
+        "ordem": 16,
+        "capitulos": 4
+      },
+      {
+        "nome": "Tito",
+        "arquivo": "livros/tito.json",
+        "ordem": 17,
+        "capitulos": 3
+      },
+      {
+        "nome": "Filêmon",
+        "arquivo": "livros/filemon.json",
+        "ordem": 18,
+        "capitulos": 1
+      },
+      {
+        "nome": "Hebreus",
+        "arquivo": "livros/hebreus.json",
+        "ordem": 19,
+        "capitulos": 13
+      },
+      {
+        "nome": "São Tiago",
+        "arquivo": "livros/sao-tiago.json",
+        "ordem": 20,
+        "capitulos": 5
+      },
+      {
+        "nome": "I São Pedro",
+        "arquivo": "livros/i-sao-pedro.json",
+        "ordem": 21,
+        "capitulos": 5
+      },
+      {
+        "nome": "II São Pedro",
+        "arquivo": "livros/ii-sao-pedro.json",
+        "ordem": 22,
+        "capitulos": 3
+      },
+      {
+        "nome": "I São João",
+        "arquivo": "livros/i-sao-joao.json",
+        "ordem": 23,
+        "capitulos": 5
+      },
+      {
+        "nome": "II São João",
+        "arquivo": "livros/ii-sao-joao.json",
+        "ordem": 24,
+        "capitulos": 1
+      },
+      {
+        "nome": "III São João",
+        "arquivo": "livros/iii-sao-joao.json",
+        "ordem": 25,
+        "capitulos": 1
+      },
+      {
+        "nome": "São Judas",
+        "arquivo": "livros/sao-judas.json",
+        "ordem": 26,
+        "capitulos": 1
+      },
+      {
+        "nome": "Apocalipse",
+        "arquivo": "livros/apocalipse.json",
+        "ordem": 27,
+        "capitulos": 22
+      }
+    ]
+  }
+}
